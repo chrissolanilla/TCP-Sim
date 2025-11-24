@@ -20,4 +20,6 @@ Run the execuatble `./tcp_sim` and you will be prompted to enter input in the TU
 - packet numbers to drop
 - ACK numbers to drop
 
+if you leave the fields blank, it will result in no packet loss
+
 
