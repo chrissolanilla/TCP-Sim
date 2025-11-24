@@ -54,5 +54,7 @@ int main() {
     std::this_thread::sleep_for(std::chrono::seconds(5));
 
     std::cout << "\nSimulation ended.\n";
+	//need this for my test script ngl
+	std::this_thread::sleep_for(std::chrono::seconds(2));
 }
 

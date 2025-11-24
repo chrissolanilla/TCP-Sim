@@ -1,0 +1,22 @@
+Delay:       0
+Drop Packets: 
+Drop ACKs:    
+
+----- Program Output -----
+=====Simplified TCP Simulation=====
+Enter propagation delay in ms: Enter packet numbers to drop, or leave blank: Enter ACK numbers to drop, or leave blank: 
+Running simulation...
+[SENDER] sending seq=0
+[SENDER] sending seq=1
+[RECEIVER] got seq=0
+[RECEIVER] accepted seq=0
+[SENDER] sending seq=2
+[RECEIVER] got seq=1
+[RECEIVER] accepted seq=1
+[RECEIVER] got seq=2
+[RECEIVER] accepted seq=2
+[SENDER] received ACK=0
+[SENDER] received ACK=1
+[SENDER] received ACK=2
+
+Simulation ended.
