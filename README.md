@@ -22,4 +22,7 @@ Run the execuatble `./tcp_sim` and you will be prompted to enter input in the TU
 
 if you leave the fields blank, it will result in no packet loss
 
-
+# Testing
+You can test the binary once built with my little bash script I made `test.sh`.
+This Repo contains my output in the `test_results` directory
+I have 5 tests.
