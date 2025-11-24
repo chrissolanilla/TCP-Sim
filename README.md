@@ -10,11 +10,10 @@ mkdir build
 cd build
 cmake ..
 make
-
 ```
 now you can run the executable `./tcp_sim`
 
-# usage
+# Usage
 Run the execuatble `./tcp_sim` and you will be prompted to enter input in the TUI
 - propogation delay in ms
 - packet numbers to drop
